@@ -1,0 +1,5 @@
+This script needs too:
+
+- setup conda on wsl / linux
+- make a venv
+- pip install anything we will use for the workshop
