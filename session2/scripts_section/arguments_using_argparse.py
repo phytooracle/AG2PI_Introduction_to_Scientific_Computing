@@ -3,8 +3,8 @@ import argparse
 # Setup Arguments
 parser = argparse.ArgumentParser(description='Process some integers.')
 
-# parser.add_argment('-{command line character}', 
-#                    '--{variable in script}', 
+# parser.add_argment('-{short flag}', 
+#                    '--{short flag}', 
 #                      type = {str, int, float}, 
 #                       help = 'a message to display')
 

@@ -4,9 +4,24 @@ import argparse
 import numpy as np
 
 # Setup arguments
+
 parser = argparse.ArgumentParser(description='Create a matrix')
-parser.add_argument('-x','--x_size', type = int, help='a number')
-parser.add_argument('-y','--y_size', type = int, help='a number')
+
+
+# parser.add_argment('-{short flag}', 
+#                    '--{long flag}', 
+#                      type = {str, int, float}, 
+#                       help = 'a message to display')
+
+parser.add_argument('-x',
+                    '--x_size', 
+                    type = int, 
+                    help='a number')
+
+parser.add_argument('-y',
+                    '--y_size', 
+                    type = int, 
+                    help='a number')
 
 args = parser.parse_args()
 # ----------------------------------------------------------------------------------------------
