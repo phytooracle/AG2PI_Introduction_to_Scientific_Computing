@@ -63,6 +63,3 @@ We will install VSCode, an Integrated Development Environment (IDE) developed by
     ```
     ./session2/prep/mac_install.sh
     ```
-
-
-
