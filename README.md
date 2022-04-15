@@ -1,4 +1,4 @@
-# Introduction to Scientific Computing
+# <p align="center">Introduction to Scientific Computing</p>
 
 ![](/images/AdobeStock_144374589.jpeg)
 
