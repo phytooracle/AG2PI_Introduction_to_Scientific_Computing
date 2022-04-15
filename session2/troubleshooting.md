@@ -1,4 +1,4 @@
-# WSL2 installation troubleshooting
+# <p align="center">WSL2 installation troubleshooting</p>
 
 If you run into errors with the single command install, follow the steps below:
 
