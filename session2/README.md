@@ -69,4 +69,4 @@ We will install VSCode, an Integrated Development Environment (IDE) developed by
     ./session2/prep/mac_install.sh
     ```
     
-    >***Note***: If you run into permissions errors, run: ```git pull && ./session2/prep/mac_install.sh```
+    >***Note***: If you run into permissions errors, run: ```git pull``` and retry the installation command above.
