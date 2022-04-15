@@ -10,48 +10,12 @@ You are ready to proceed. Just open your terminal! I strongly suggest you pay at
 
 ## Windows users
 
-We need to download and install WSL 2. I use this as my go-to workspace, as it allows me to run my code on Linux but have my computer run Windows 10. You will have a Linux terminal running on the subsystem, but your main OS will be Windows! Isn't that cool?
+The Windows Subsystem for Linux 2 (WSL2) gives you command line access to various Linux distributions. Today, we will be installing WSL2 and setting Ubuntu as our main distribution. 
 
-![](/images/wsl2_example.png)
+To install WSL2, run the following command:
 
-Let's get this set up on your computer by following the steps below:
+```powershell
+wsl --install
+```
 
-1. Open Powershell as Admin and run:
-
-    ```cmd
-    dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
-    ```
-
-2. Right-click on the Windows Start icon, click on Run, type ```winver```. Confirm that you meet the requirements below.
-
-    > ***WSL 2 Requirements***
-    >
-    > x64 systems: Version 1903 or higher, with Build 18362 or higher.
-    >
-    > ARM64 systems: Version 2004 or higher, with Build 19041 or higher.
-
-3. Enable the Virtual Machine feature by running:
-
-    ```cmd
-    dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
-    ```
-
-4. Download and install the Linux kernel update by [clicking here](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi).
-
-    >***Note***: If you get an error during the Linux kernel installation, restart your computer and retry Step #5.
-
-5. Go back to your admin Powershell window and set WSL 2 as your default WSL version by running:
-
-    ```cmd
-    wsl --set-default-version 2
-    ```
-
-6. Open the [Windows Store](https://aka.ms/wslstore) and download Ubuntu.
-   
-    ![](/images/ms_store_ubuntu.png)
-
-7. Download the Windows Terminal app.
-   
-    ![](/images/ms_store_terminal.png)
-
-8.  Open the Windows Terminal app. You are now ready to go! You will be asked to create a username and password. 
+>***Note***: If you run into errors, [click here]() for troubleshooting steps.
