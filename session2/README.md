@@ -36,3 +36,7 @@ We will install VSCode, an Integrated Development Environment (IDE) developed by
 2. Install the Remote - WSL extension [here](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl).
    
     ![](/images/wsl_extension.png)
+    
+    ![](/images/wsl_extension_accept.png)
+
+
