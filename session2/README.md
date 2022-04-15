@@ -59,18 +59,18 @@ We will install VSCode, an Integrated Development Environment (IDE) developed by
 
     > If you are using Linux or Windows/WSL2 run:
 
-    ```
+    ```bash
     ./session2/prep/ubuntu_install.sh
     ```
 
     > If you are using MacOS run: 
 
-    ```
+    ```bash
     ./session2/prep/mac_install.sh
     ```
     
     >***Note***: If you run into permissions errors, run: 
 
-        ```
-        git pull && ./session2/prep/mac_install.sh
-        ```
+    ```bash
+    git pull && ./session2/prep/mac_install.sh
+    ```
