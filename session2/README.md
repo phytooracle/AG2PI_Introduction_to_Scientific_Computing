@@ -40,3 +40,29 @@ We will install VSCode, an Integrated Development Environment (IDE) developed by
     ![](/images/wsl_extension.png)
 
     ![](/images/wsl_extension_accept.png)
+
+
+# Workshop prep 
+
+1. We will download a GitHub repo containing all the files for this workshop series. To download the repo, run the following command:
+
+    ```
+    git clone git@github.com:phytooracle/AG2PI_Introduction_to_Scientific_Computing.git && cd AG2PI_Introduction_to_Scientific_Computing
+    ```
+
+2. Next we will instal Conda, which allows you to create isolated environments. These environments reduce or eliminate errors between Python libraries/packages.
+
+    If you are using Linux or Windows/WSL2 run:
+
+    ```
+    ./session2/prep/ubuntu_install.sh
+    ```
+
+    If you are using MacOS run: 
+
+    ```
+    ./session2/prep/mac_install.sh
+    ```
+
+
+
