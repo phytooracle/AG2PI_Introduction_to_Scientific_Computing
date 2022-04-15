@@ -4,6 +4,8 @@
 
 *Access workshop presentation slides, [click here](https://docs.google.com/presentation/d/1Y4swyDQcESyIEI9Egz3urjTbgS2qDGoaIiKeBVvFsrY/edit?usp=sharing).*
 
+---
+
 # Terminal
 
 Your terminal will look and act differently depending on your operating system (OS). There are a variety of OSs out there including Ubuntu, Windows, Mac OS, etc. Since the majority of scientific computing is done on [Linux](https://www.linux.org/), that will be the focus of this tutorial. 
@@ -24,6 +26,8 @@ wsl --install
 
 >***Note***: If you run into errors, [click here](https://github.com/phytooracle/ASEMS_Workshop/blob/main/session2/troubleshooting.md) for troubleshooting steps.
 
+---
+
 # VSCode
 
 We will install VSCode, an Integrated Development Environment (IDE) developed by Microsoft.
@@ -41,6 +45,7 @@ We will install VSCode, an Integrated Development Environment (IDE) developed by
 
     ![](/images/wsl_extension_accept.png)
 
+---
 
 # Workshop prep 
 
