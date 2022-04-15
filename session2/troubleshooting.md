@@ -1,8 +1,6 @@
-If you run into errors with the single command install, these steps should help!
+# WSL2 installation troubleshooting
 
-![](/images/wsl2_example.png)
-
-Let's get this set up on your computer by following the steps below:
+If you run into errors with the single command install, follow the steps below:
 
 1. Open Powershell as Admin and run:
 

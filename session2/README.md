@@ -18,4 +18,4 @@ To install WSL2, run the following command:
 wsl --install
 ```
 
->***Note***: If you run into errors, [click here]() for troubleshooting steps.
+>***Note***: If you run into errors, [click here](https://github.com/phytooracle/ASEMS_Workshop/blob/main/session2/troubleshooting.md) for troubleshooting steps.
