@@ -16,6 +16,8 @@ After completion of the workshop series, participants will be able to integrate 
 
 ---
 
+## Workshop Presenters:
+
 <p align="center"><img src="images/Ariyan.jpg" height="300"></p>
 <p align="center"><i>Ariyan Zarei is a Ph.D. candidate in Computer Science at the University of Arizona and is part of the PhytoOracle project.</i></p>
 
