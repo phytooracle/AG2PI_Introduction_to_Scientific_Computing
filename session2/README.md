@@ -51,7 +51,7 @@ We will install VSCode, an Integrated Development Environment (IDE) developed by
 
 * We will download a GitHub repo containing all the files for this workshop series. To download the repo, run the following command:
 
-    ```
+    ```bash
     git clone git@github.com:phytooracle/AG2PI_Introduction_to_Scientific_Computing.git && cd AG2PI_Introduction_to_Scientific_Computing
     ```
 
