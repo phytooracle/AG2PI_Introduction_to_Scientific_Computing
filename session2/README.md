@@ -50,7 +50,7 @@ We will install VSCode, an Integrated Development Environment (IDE) developed by
     git clone git@github.com:phytooracle/AG2PI_Introduction_to_Scientific_Computing.git && cd AG2PI_Introduction_to_Scientific_Computing
     ```
 
-2. Next we will instal Conda, which allows you to create isolated environments. These environments reduce or eliminate errors between Python libraries/packages.
+2. Next we will install Conda, which allows you to create isolated environments. These environments reduce or eliminate errors between Python libraries/packages.
 
     > If you are using Linux or Windows/WSL2 run:
 
