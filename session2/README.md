@@ -1,6 +1,6 @@
-# Accessing the command line
-<p align="center"><img src="../images/AdobeStock_125371270.jpeg" height="300"></p>
-<!-- ![](/images/AdobeStock_125371270.jpeg) -->
+# <p align="center">Shell scripts, data analysis and discovery, and machine learning</p>
+
+<p align="center"><img src="../images/AdobeStock_125371270.jpeg" height="400"></p>
 
 Your terminal will look and act differently depending on your operating system (OS). There are a variety of OSs out there including Ubuntu, Windows, Mac OS, etc. Since the majority of scientific computing is done on [Linux](https://www.linux.org/), that will be the focus of this tutorial. 
 
