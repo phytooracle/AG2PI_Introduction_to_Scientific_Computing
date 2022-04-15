@@ -1,6 +1,6 @@
 # Introduction to Scientific Computing
 
-![](/images/AdobeStock_144374589.jpeg)
+<img src="images/AdobeStock_144374589.jpeg" width="500">
 
 Recent technological advancements in computer science, data analytics, and data management have resulted in the acquisition and storage of massive amounts of data across various disciplines. These collections do not reach their full potential unless they are analyzed thoroughly using information extraction, data mining, and knowledge discovery techniques. In this workshop series, we will introduce a comprehensive set of essential methods and approaches in data analytics and scientific computing. This three-week series will include:
 
