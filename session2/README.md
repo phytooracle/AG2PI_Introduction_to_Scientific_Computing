@@ -1,22 +1,3 @@
----
-title: 'Terminal, GitHub, and iRODS Essentials'
-date: 2021-09-20
-permalink: /posts/2021/09/terminal-git-irods/
-excerpt_separator: <!--more-->
-tags:
-  - terminal
-  - bash
-  - github
-  - git 
-  - irods
-  - cyverse
-  - data
-  - science
-  - computing
-  - soft skills
-  - linux
----
-
 # Accessing the command line
 
 Your terminal will look and act differently depending on your operating system (OS). There are a variety of OSs out there including Ubuntu, Windows, Mac OS, etc. Since the majority of scientific computing is done on [Linux](https://www.linux.org/), that will be the focus of this tutorial. 
