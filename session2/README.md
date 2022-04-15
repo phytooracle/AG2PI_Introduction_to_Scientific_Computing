@@ -52,13 +52,13 @@ We will install VSCode, an Integrated Development Environment (IDE) developed by
 
 2. Next we will instal Conda, which allows you to create isolated environments. These environments reduce or eliminate errors between Python libraries/packages.
 
-    If you are using Linux or Windows/WSL2 run:
+    > If you are using Linux or Windows/WSL2 run:
 
     ```
     ./session2/prep/ubuntu_install.sh
     ```
 
-    If you are using MacOS run: 
+    > If you are using MacOS run: 
 
     ```
     ./session2/prep/mac_install.sh
