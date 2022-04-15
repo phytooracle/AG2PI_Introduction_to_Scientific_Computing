@@ -16,14 +16,14 @@ After completion of the workshop series, participants will be able to integrate 
 
 ---
 
-<p align="center"><img src="images/Ariyan.jpg" width="100"></p>
-<p align="center">Ariyan Zarei is a Ph.D. candidate in Computer Science at the University of Arizona. He is part of the PhytoOracle project</p>
+<p align="center"><img src="images/Ariyan.jpg" height="100"></p>
+<p align="center"><i>Ariyan Zarei is a Ph.D. candidate in Computer Science at the University of Arizona and is part of the PhytoOracle project.</i></p>
 
-<p align="center"><img src="images/EmmanuelGonzalezHeadshot.jpg" width="100"></p>
-<p align="center">Emmanuel Gonzalez is a doctoral student in Dr. Duke Pauli’s lab at the University of Arizona. He earned a bachelor’s degree in biology from Pacific Lutheran University</p>
+<p align="center"><img src="images/EmmanuelGonzalezHeadshot.jpg" height="100"></p>
+<p align="center"><i>Emmanuel Gonzalez is a doctoral student in Dr. Duke Pauli’s lab at the University of Arizona. He earned a bachelor’s degree in biology from Pacific Lutheran University.</i></p>
 
-<p align="center"><img src="images/Travis.jpg" width="100"></p>
-<p align="center">Travis Simmons is a senior undergraduate student at the College of Coastal Georgia. He joined the University of Arizona’s Pauli Lab as a virtual intern and is now a Research Data Support Specialist.</p>
+<p align="center"><img src="images/Travis.jpg" height="100"></p>
+<p align="center"><i>Travis Simmons is a senior undergraduate student at the College of Coastal Georgia. He joined the University of Arizona’s Pauli Lab as a virtual intern and is now a Research Data Support Specialist.</i></p>
 
-<p align="center"><img src="images/Nathan.jpg" width="100"></p>
-<p align="center">Nathan Hendler earned a bachelor’s degree at the University of Arizona in geology. His graduate career led to data science, applying statistics and machine learning to large datasets.</p>
+<p align="center"><img src="images/Nathan.jpg" height="100"></p>
+<p align="center"><i>Nathan Hendler earned a bachelor’s degree at the University of Arizona in geology. His graduate career led to data science, applying statistics and machine learning to large datasets.</i></p>
