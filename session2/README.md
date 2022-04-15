@@ -60,11 +60,11 @@ We will install VSCode, an Integrated Development Environment (IDE) developed by
     > If you are using Linux or Windows/WSL2 run:
 
     ```
-    cd session2/prep && bash ubuntu_install.sh
+    ./session2/prep/ubuntu_install.sh
     ```
 
     > If you are using MacOS run: 
 
     ```
-    cd session2/prep && bash mac_install.sh
+    ./session2/prep/bash mac_install.sh
     ```
