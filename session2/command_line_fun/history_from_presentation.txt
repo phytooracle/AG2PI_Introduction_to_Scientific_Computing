@@ -1,0 +1,64 @@
+cd work/repos/AG2PI_Introduction_to_Scientific_Computing/
+ls
+pwd
+ls
+ls -h
+ls --help
+ls -F
+cd session2/
+ls
+cd command_line_fun/
+ls
+ls -F
+ls -l
+ls -lh
+ls -laF
+pwd
+ls ..
+ls
+ls .
+cd ~
+pwd
+cd -
+cd ..
+cd -
+ls
+mkdir test
+ls
+ls -F
+mkdir -p one/two/three/four
+ls
+cd one
+ls
+cd two
+ls
+cd ..
+cd one
+ls
+tree
+cd ..
+tree
+rmdir test
+rmdir one
+rm -r one/
+ls
+less popol_vuh.txt 
+cat popol_vuh.txt 
+ls
+cat conda.sh 
+pwd
+ls
+cat conda.sh 
+conda create -n ASEMS_Workshop
+conda activate ASEMS_Workshop
+conda env list
+ls
+cat conda.sh 
+conda info
+conda list
+cat conda.sh 
+conda install matplotlib scipy scikit-learn pandas
+conda list
+conda list | grep matplotlib
+ls
+cat conda.sh 
